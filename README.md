@@ -20,7 +20,7 @@ A clean and simple weather app built with Python and PyQt5. Enter a city name an
 - PyQt5
 - requests
 
-Install them with:
+Install them with: 'pip' which comes with python 3
 
 
 ---
